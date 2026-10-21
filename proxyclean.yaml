@@ -7,7 +7,6 @@ proxies:
   - {name: s5-de-45.74.31.42, type: socks5, server: 45.74.31.42, port: 41548}
   - {name: s5-de-45.74.31.42-13516, type: socks5, server: 45.74.31.42, port: 13516}
   - {name: s5-de-45.74.31.42-5202, type: socks5, server: 45.74.31.42, port: 5202}
-  - {name: s5-us-192.252.220.89, type: socks5, server: 192.252.220.89, port: 4145}
   - {name: s5-nl-45.74.31.41, type: socks5, server: 45.74.31.41, port: 13214}
   - {name: s5-de-45.74.31.42-15414, type: socks5, server: 45.74.31.42, port: 15414}
   - {name: s5-nl-45.74.31.47, type: socks5, server: 45.74.31.47, port: 7734}
@@ -20,24 +19,26 @@ proxies:
   - {name: s5-nl-45.74.31.40-4114, type: socks5, server: 45.74.31.40, port: 4114}
   - {name: s5-de-45.74.31.42-15289, type: socks5, server: 45.74.31.42, port: 15289}
   - {name: s5-de-45.74.31.42-16626, type: socks5, server: 45.74.31.42, port: 16626}
+  - {name: s5-us-142.54.231.38, type: socks5, server: 142.54.231.38, port: 4145}
+  - {name: s5-us-192.252.220.89, type: socks5, server: 192.252.220.89, port: 4145}
   - {name: s5-nl-45.74.31.41-4359, type: socks5, server: 45.74.31.41, port: 4359}
   - {name: s5-de-45.74.31.42-7193, type: socks5, server: 45.74.31.42, port: 7193}
   - {name: s5-de-45.74.31.42-8287, type: socks5, server: 45.74.31.42, port: 8287}
+  - {name: s5-us-199.102.106.94, type: socks5, server: 199.102.106.94, port: 4145}
   - {name: s5-us-192.111.139.165, type: socks5, server: 192.111.139.165, port: 4145}
   - {name: s5-nl-45.74.31.22, type: socks5, server: 45.74.31.22, port: 11374}
-  - {name: s5-us-174.75.211.193, type: socks5, server: 174.75.211.193, port: 4145}
   - {name: s5-de-45.74.31.42-5999, type: socks5, server: 45.74.31.42, port: 5999}
   - {name: s5-nl-45.74.31.41-46440, type: socks5, server: 45.74.31.41, port: 46440}
-  - {name: s5-us-142.54.231.38, type: socks5, server: 142.54.231.38, port: 4145}
   - {name: s5-de-45.74.31.42-7052, type: socks5, server: 45.74.31.42, port: 7052}
   - {name: s5-de-45.74.31.42-13530, type: socks5, server: 45.74.31.42, port: 13530}
   - {name: s5-nl-45.74.31.40-11493, type: socks5, server: 45.74.31.40, port: 11493}
   - {name: s5-de-45.74.31.42-6063, type: socks5, server: 45.74.31.42, port: 6063}
   - {name: s5-nl-45.74.31.40-4176, type: socks5, server: 45.74.31.40, port: 4176}
-  - {name: s5-us-98.175.31.195, type: socks5, server: 98.175.31.195, port: 4145}
+  - {name: s5-us-174.75.211.193, type: socks5, server: 174.75.211.193, port: 4145}
   - {name: s5-de-45.74.31.42-8241, type: socks5, server: 45.74.31.42, port: 8241}
   - {name: s5-nl-45.74.31.41-16021, type: socks5, server: 45.74.31.41, port: 16021}
   - {name: s5-de-45.74.31.42-5211, type: socks5, server: 45.74.31.42, port: 5211}
+  - {name: s5-us-98.190.239.3, type: socks5, server: 98.190.239.3, port: 4145}
   - {name: s5-nl-45.74.31.40-7458, type: socks5, server: 45.74.31.40, port: 7458}
   - {name: s5-nl-45.74.31.47-4765, type: socks5, server: 45.74.31.47, port: 4765}
   - {name: s5-nl-45.74.31.41-12014, type: socks5, server: 45.74.31.41, port: 12014}
@@ -45,6 +46,7 @@ proxies:
   - {name: s5-de-45.74.31.42-10424, type: socks5, server: 45.74.31.42, port: 10424}
   - {name: s5-de-45.74.31.42-13972, type: socks5, server: 45.74.31.42, port: 13972}
   - {name: s5-de-45.74.31.42-11378, type: socks5, server: 45.74.31.42, port: 11378}
+  - {name: s5-us-98.175.31.195, type: socks5, server: 98.175.31.195, port: 4145}
   - {name: s5-de-45.74.31.42-30110, type: socks5, server: 45.74.31.42, port: 30110}
   - {name: s5-de-45.74.31.42-10622, type: socks5, server: 45.74.31.42, port: 10622}
   - {name: s5-de-45.74.31.42-7836, type: socks5, server: 45.74.31.42, port: 7836}
@@ -59,7 +61,6 @@ proxies:
   - {name: s5-de-45.74.31.42-9329, type: socks5, server: 45.74.31.42, port: 9329}
   - {name: s5-nl-45.74.31.41-4246, type: socks5, server: 45.74.31.41, port: 4246}
   - {name: s5-de-45.74.31.42-10294, type: socks5, server: 45.74.31.42, port: 10294}
-  - {name: s5-us-98.190.239.3, type: socks5, server: 98.190.239.3, port: 4145}
   - {name: s5-nl-45.74.31.47-20610, type: socks5, server: 45.74.31.47, port: 20610}
   - {name: s5-nl-45.74.31.25-6734, type: socks5, server: 45.74.31.25, port: 6734}
   - {name: s5-de-45.74.31.42-10459, type: socks5, server: 45.74.31.42, port: 10459}
@@ -79,7 +80,7 @@ proxies:
   - {name: s5-de-45.74.31.42-4889, type: socks5, server: 45.74.31.42, port: 4889}
   - {name: s5-nl-45.74.31.41-16222, type: socks5, server: 45.74.31.41, port: 16222}
   - {name: s5-nl-45.74.31.47-5678, type: socks5, server: 45.74.31.47, port: 5678}
-  - {name: s5-us-72.195.34.60, type: socks5, server: 72.195.34.60, port: 27391}
+  - {name: s5-us-98.178.72.21, type: socks5, server: 98.178.72.21, port: 10919}
   - {name: s5-nl-45.74.31.40-10592, type: socks5, server: 45.74.31.40, port: 10592}
   - {name: s5-de-45.74.31.42-11996, type: socks5, server: 45.74.31.42, port: 11996}
   - {name: s5-nl-45.74.31.41-4541, type: socks5, server: 45.74.31.41, port: 4541}
@@ -95,7 +96,6 @@ proxies:
   - {name: s5-nl-45.74.31.40-5821, type: socks5, server: 45.74.31.40, port: 5821}
   - {name: s5-nl-45.74.31.40-24076, type: socks5, server: 45.74.31.40, port: 24076}
   - {name: s5-nl-45.74.31.40-4424, type: socks5, server: 45.74.31.40, port: 4424}
-  - {name: s5-us-68.71.252.38, type: socks5, server: 68.71.252.38, port: 4145}
   - {name: s5-nl-45.74.31.47-8121, type: socks5, server: 45.74.31.47, port: 8121}
   - {name: s5-de-45.74.31.42-9509, type: socks5, server: 45.74.31.42, port: 9509}
   - {name: s5-de-45.74.31.42-6816, type: socks5, server: 45.74.31.42, port: 6816}
