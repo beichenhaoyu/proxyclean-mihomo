@@ -48,6 +48,7 @@ proxies:
   - {name: s5-ru-37.18.73.60, type: socks5, server: 37.18.73.60, port: 5566}
   - {name: s5-us-184.185.2.12, type: socks5, server: 184.185.2.12, port: 4145}
   - {name: s5-ru-85.143.254.38, type: socks5, server: 85.143.254.38, port: 1080}
+  - {name: s5-us-216.68.128.121, type: socks5, server: 216.68.128.121, port: 4145}
   - {name: s5-gb-192.252.210.233, type: socks5, server: 192.252.210.233, port: 4145}
   - {name: s5-us-98.191.0.37, type: socks5, server: 98.191.0.37, port: 4145}
   - {name: s5-us-98.178.72.30, type: socks5, server: 98.178.72.30, port: 4145}
