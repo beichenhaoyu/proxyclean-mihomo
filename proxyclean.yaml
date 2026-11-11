@@ -14,8 +14,8 @@ proxies:
   - {name: s5-us-199.58.185.9, type: socks5, server: 199.58.185.9, port: 4145}
   - {name: s5-us-68.71.247.130, type: socks5, server: 68.71.247.130, port: 4145}
   - {name: s5-us-198.8.94.174, type: socks5, server: 198.8.94.174, port: 39078}
-  - {name: s5-gb-192.252.210.233, type: socks5, server: 192.252.210.233, port: 4145}
   - {name: s5-us-199.66.182.232, type: socks5, server: 199.66.182.232, port: 4145}
+  - {name: s5-gb-192.252.210.233, type: socks5, server: 192.252.210.233, port: 4145}
   - {name: s5-us-216.105.130.131, type: socks5, server: 216.105.130.131, port: 4145}
   - {name: s5-us-107.174.30.92, type: socks5, server: 107.174.30.92, port: 1080}
   - {name: s5-us-216.105.128.144, type: socks5, server: 216.105.128.144, port: 4145}
@@ -32,12 +32,12 @@ proxies:
   - {name: s5-us-98.170.57.241, type: socks5, server: 98.170.57.241, port: 4145}
   - {name: s5-us-192.252.208.70, type: socks5, server: 192.252.208.70, port: 14282}
   - {name: s5-us-199.58.184.97, type: socks5, server: 199.58.184.97, port: 4145}
+  - {name: s5-us-72.195.101.99, type: socks5, server: 72.195.101.99, port: 4145}
   - {name: s5-us-142.54.232.6, type: socks5, server: 142.54.232.6, port: 4145}
   - {name: s5-us-98.191.0.47, type: socks5, server: 98.191.0.47, port: 4145}
   - {name: s5-us-192.252.215.5, type: socks5, server: 192.252.215.5, port: 16137}
   - {name: s5-us-199.66.183.226, type: socks5, server: 199.66.183.226, port: 4145}
   - {name: s5-us-192.111.139.165, type: socks5, server: 192.111.139.165, port: 4145}
-  - {name: s5-us-72.195.101.99, type: socks5, server: 72.195.101.99, port: 4145}
   - {name: s5-us-192.111.135.18, type: socks5, server: 192.111.135.18, port: 18301}
   - {name: s5-us-184.181.217.201, type: socks5, server: 184.181.217.201, port: 4145}
   - {name: s5-us-98.178.72.30, type: socks5, server: 98.178.72.30, port: 4145}
